@@ -21,7 +21,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
       </a></p>
       
-      <h2 align="center">🚀 GitHub Stats 🚀</h2>
+      <h2 align="center"> GitHub Stats </h2>
 <p align="center">
   <span style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true" alt="GitHub Stats" width="45%" style="margin-right: 10px"/>
