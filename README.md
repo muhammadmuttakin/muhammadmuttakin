@@ -22,14 +22,16 @@
       </a></p>
       
       <h2 align="center">🚀 GitHub Stats 🚀</h2>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true" alt="GitHub Stats" width="45%" style="margin-right: 10px"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmuttakin" alt="GitHub Streak" width="45%" />
-      </p>
-      
-      <p align="center">
-        <a href="https://github.com/arifian853">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin" alt="Top Languages" width="45%"/>
-        </a>
-      </p>
+<p align="center">
+  <span style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true" alt="GitHub Stats" width="45%" style="margin-right: 10px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmuttakin" alt="GitHub Streak" width="45%" />
+  </span>
 </p>
+
+<p align="center">
+  <a href="https://github.com/arifian853">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin" alt="Top Languages" width="45%" />
+  </a>
+</p>
+
