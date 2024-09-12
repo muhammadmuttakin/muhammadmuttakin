@@ -23,7 +23,7 @@ At Universitas Riau, I am actively involved in various academic and extracurricu
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
       </a></p>
       
-      <h2 style="text-align: center;">🚀 GitHub Stats 🚀</h2>
+<h3 align="left">Git Status:</h3>
 <p align="center">
   <span style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true" alt="GitHub Stats" width="45%" style="margin-right: 10px"/>
