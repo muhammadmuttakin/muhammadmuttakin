@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Muttakin</h1>
 <h3 align="center"> Informatics Engineering at Riau University</h3>
+<img align="right" alt="Coding" width="125" height="200" src="takinalmet.jpg">
+<h3>About</h3>
+<p>Hello! I'm Muhammad Muttakin, currently a 5th-semester student at Universitas Riau, majoring in Information Technology. With a keen interest in technology and its applications, I am dedicated to expanding my knowledge and skills in the IT field.
 
-
+At Universitas Riau, I am actively involved in various academic and extracurricular activities that enhance my technical and problem-solving abilities. My coursework and projects focus on areas such as software development, data analysis, and system design. I am passionate about leveraging technology to solve real-world problems and am particularly interested in AI, web development.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin" alt="Top Languages" width="45%" />
   </a>
 </p>
-<img align="right" alt="Coding" width="250" height="400" src="takinalmet.jpg">
 
