@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muttakin</h1>
 <h3 align="center"> Informatics Engineering at Riau University</h3>
 
-<img align="right" alt="Coding" width="250" height="400" src="takinalmet.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,4 +33,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin" alt="Top Languages" width="45%" />
   </a>
 </p>
+<img align="right" alt="Coding" width="250" height="400" src="takinalmet.jpg">
 
