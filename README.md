@@ -7,7 +7,6 @@
 
 <!-- About Section -->
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img src="takinalmet.jpg" alt="Coding" width="150" height="210" style="border-radius: 10px; margin-bottom: 10px;"/>
   <div style="max-width: 600px;">
     <p>Hello! I'm Muhammad Muttakin, a 5th-semester student at Universitas Riau, majoring in Information Technology. I am passionate about technology and its applications, and I am continually expanding my knowledge and skills in the IT field.</p>
     <p>At Universitas Riau, I actively participate in academic and extracurricular activities to enhance my technical and problem-solving abilities. My coursework and projects focus on software development, data analysis, and system design. I am enthusiastic about leveraging technology to address real-world challenges and am especially interested in AI and web development.</p>
