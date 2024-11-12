@@ -56,12 +56,13 @@ At Universitas Riau, I actively participate in academic and extracurricular acti
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true&theme=default" alt="GitHub Stats" width="45%" style="margin-right: 10px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmuttakin&theme=default" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmuttakin&show_icons=true&theme=default" alt="GitHub Stats" width="50%"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmuttakin&theme=default" alt="GitHub Streak" width="50%"/>
+</p>
 <p align="center">
   <a href="https://github.com/muhammadmuttakin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin&layout=compact" alt="Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuttakin&layout=compact" alt="Top Languages" width="50%"/>
   </a>
 </p>
