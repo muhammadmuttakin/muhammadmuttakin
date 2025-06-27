@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I'm Muhammad Muttakin, a 5th-semester student at Universitas Riau majoring in Information Technology.  
+  I'm Muhammad Muttakin, a 6th-semester student at Universitas Riau majoring in Information Technology.  
   Passionate about technology, I’m always eager to expand my knowledge and skills, especially in software development, data analysis, and AI/web development.
 </p>
 
